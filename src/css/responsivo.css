@@ -1,0 +1,23 @@
+@media (max-width: 1280px){
+    
+
+}
+
+@media(max-width: 768px){
+    .agoravai{
+        margin: auto;
+        display: block;
+        margin-left: 70px;
+    }
+}
+
+@media (max-width: 425px){
+    .agoravai{
+        margin: auto;
+        display: block;
+    }
+
+    p{
+        font-size: 8px;
+    }
+}
